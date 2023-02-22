@@ -1,7 +1,7 @@
-# \[Group name\]
+# \[zds655\]
 
 **Group members:**
-- A
+- Simon Dyhr
 - B
 - C
 
