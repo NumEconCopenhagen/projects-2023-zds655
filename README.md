@@ -1,4 +1,4 @@
-# \zds655\
+# zds655
 
 **Group members:**
 - Simon Dyhr
