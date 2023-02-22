@@ -1,9 +1,7 @@
-# \[zds655\]
+# \zds655\
 
 **Group members:**
 - Simon Dyhr
-- B
-- C
 
 This repository contains  
 1. Inaugural project. 
